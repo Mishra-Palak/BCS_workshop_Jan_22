@@ -1,3 +1,5 @@
+Disclaimer: This repository has been forked from https://github.com/bcs-iitk/BCS_workshop_Jan_22.
+
 # Introduction and Topics in Brain Sciences
 
 This repository contains all the lecture slides and workshop materials for the event conducted in January 2022. The goal of this workshop is to teach and introduce you to varied topics needed for studying the Brain. 
